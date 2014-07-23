@@ -1,6 +1,6 @@
 ###Configuring a Rails app to use facebook sign in###
 
-First of all: Im folliwing this tutorial from Rails Casts to do the [implementation of facebook:](http://railscasts.com/episodes/241-simple-omniauth)
+First of all: Im folliwing this tutorial from Rails Casts to do the [implementation of facebook sign in:](http://railscasts.com/episodes/241-simple-omniauth)
 
 Creating the application: `rails new facebook_oauth`  
 Moving to the directory: `cd facebook_oauth`  
