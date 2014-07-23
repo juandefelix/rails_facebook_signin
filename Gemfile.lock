@@ -145,7 +145,6 @@ DEPENDENCIES
   debugger
   jbuilder (~> 2.0)
   jquery-rails
-  omniauth
   omniauth-facebook
   rails (= 4.1.1)
   sass-rails (~> 4.0.3)
