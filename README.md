@@ -97,6 +97,7 @@ def destroy
   session[:user_id] = nil
   redirect_to root_url, notice: "Signed out"
 end
-```
+```  
+In the end, the `gem 'omniauth'` is not neccessary and can be removed from `Gemfile`
   
   
